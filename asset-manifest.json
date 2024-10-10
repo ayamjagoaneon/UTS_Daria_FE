@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/UTS_Daria_FE/static/css/main.a324bc30.css",
-    "main.js": "/UTS_Daria_FE/static/js/main.656f3539.js",
+    "main.css": "/UTS_Daria_FE/static/css/main.e22a2d69.css",
+    "main.js": "/UTS_Daria_FE/static/js/main.e7cb77aa.js",
     "static/media/gambar_proyek.jpg": "/UTS_Daria_FE/static/media/gambar_proyek.20c0616785bfa69ef089.jpg",
     "index.html": "/UTS_Daria_FE/index.html",
-    "main.a324bc30.css.map": "/UTS_Daria_FE/static/css/main.a324bc30.css.map",
-    "main.656f3539.js.map": "/UTS_Daria_FE/static/js/main.656f3539.js.map"
+    "main.e22a2d69.css.map": "/UTS_Daria_FE/static/css/main.e22a2d69.css.map",
+    "main.e7cb77aa.js.map": "/UTS_Daria_FE/static/js/main.e7cb77aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.a324bc30.css",
-    "static/js/main.656f3539.js"
+    "static/css/main.e22a2d69.css",
+    "static/js/main.e7cb77aa.js"
   ]
 }
